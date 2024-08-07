@@ -1,5 +1,5 @@
 # Tasks for Frontend Development Internship at [CodeAlpha](https://www.linkedin.com/company/codealpha/)
-###Duration: 15/jul/2024 to 15/Aug/2024
+### Duration: 15/jul/2024 to 15/Aug/2024
 
 *i have made the task numbering as per the task pdf provided*
 
